@@ -1,0 +1,3 @@
+Bomb Lab Purpose
+To learn machine level programs and general debugger
+and reverse engineering skills. Performed in blanca server.
